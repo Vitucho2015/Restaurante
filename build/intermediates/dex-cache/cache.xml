@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a9124acc1582bc0aae3c3862c0fbe2f1e9399d23">
+        <dex dex="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run_33e31dba6a851154c1ac72807827626d47b52146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_19fda32ee8a8309784eb10163652a9a37f96d5b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_b93fbdda60c5211d11544e6c1faa1f91ded7a821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_d3c3101c895829a414caf86cba42c31c38c8e865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9dc4812a3a432e5852f27f2c9c9b066c73926c92">
+        <dex dex="C:\Users\CECyT9\Downloads\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_4df9d8e0de02f9377d6cdb62a92255b2b517a8b6.jar" />
+    </item>
+
+</items>
